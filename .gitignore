@@ -5,7 +5,10 @@ __pycache__/
 
 # Virtual environments
 myvenv/
+
+# Secrets
 .env
+service_account.json
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
