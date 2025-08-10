@@ -12,7 +12,7 @@ This repo walks you from the absolute basics to building your own **chatbots** a
 
 | Notebook | Description |
 |----------|--------------|
-| `01-A_begineer's_guide` | Learn the foundations — models, prompts, chains, streaming, and debugging tools. |
+| `01-A_beginer's_guide` | Learn the foundations — models, prompts, chains, streaming, and debugging tools. |
 | `02-LangGraph_fundamentals` |  Understand LangGraph’s building blocks — State, Node, Edge, and Graph construction. |
 | `03-Building_a_chatbot_with_memory` | Mini-project: Build a chatbot that remembers context across conversations. |
 | `04-Building_RAG_Chatbot` | Mini-project: Upload a PDF and query it using Retrieval-Augmented Generation. |
@@ -57,17 +57,16 @@ This repo walks you from the absolute basics to building your own **chatbots** a
 ---
 
 ## Getting Started
-
-### 1. Clone this repository
+**1. Clone this repository**
 ```bash
-git clone https://github.com/yourusername/langchain-101.git
+git clone https://github.com/dipesh1dp/langchain-101.git
 cd langchain-101
 ``` 
-### 2. Install dependencies
+**2. Install dependencies**
 ```bash 
 pip install -r requirements.txt
 ``` 
-### 3. Run the notebooks
+**3. Run the notebooks**
 You can run the notebooks in:
 - Jupyter Notebook
 - VS Code with Jupyter extension
@@ -84,7 +83,7 @@ You can run the notebooks in:
 - Integrating LangServe for deployment.
 - More mini-projects with APIs & tools.
 
-### 🛠️ Maintained by
+**🛠️ Maintained by**
 [Dipesh Pandit](https://github.com/dipesh1dp) — AI/ML Enthusiast
 
 If you find this helpful, ⭐ the repo!
