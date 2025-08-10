@@ -44,6 +44,7 @@ This repo walks you from the absolute basics to building your own **chatbots** a
 
 ### 03 — Building a Chatbot with Memory 🗨️
 - Persistent memory for conversational context.
+- Manage message history
 - Example: Create a bot that *remembers what you said earlier*.
 
 ---
@@ -51,8 +52,8 @@ This repo walks you from the absolute basics to building your own **chatbots** a
 ### 04 — Building a RAG Chatbot (PDF QA) 📄
 - Load and chunk PDFs.
 - Use vector stores to retrieve relevant chunks.
-- Integrate retrieval with your chatbot.
-- Ask questions directly from your documents.
+- Integrate retrieval with the chatbot.
+- Ask questions directly from the documents.
 
 ---
 
